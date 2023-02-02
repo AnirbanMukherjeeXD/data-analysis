@@ -1,0 +1,16 @@
+Timestamp,Name (optional),Age,Height (inch),Weight (kg),Gender,Educational Qualification
+12/13/2022 0:44,Aa,25,67,70,Male,Graduate
+12/13/2022 0:45,Rr,28,66,69,Female,Postgraduate
+12/13/2022 0:49,Gg,24,70,70,Male,Undergraduate
+12/13/2022 0:50,Bb,23,68,56,Male,Undergraduate
+12/13/2022 0:55,Cc,28,67,80,Female,Postgraduate
+12/13/2022 0:55,Dd,28,65,72,Female,Postgraduate
+12/13/2022 0:55,Ee,30,74,81,Male,Others
+12/13/2022 0:56,Ff,25,70,79,Others,Graduate
+12/13/2022 0:57,Gg,24,68,73,Male,Graduate
+12/13/2022 0:57,Hh,25,62,69,Female,Undergraduate
+12/13/2022 0:58,Bb,32,71,80,Male,Others
+12/13/2022 1:00,Cc,29,68,75,Female,Postgraduate
+12/18/2022 1:15,Dd,23,69,69,Male,Undergraduate
+12/19/2022 1:16,Ee,23,67,65,Female,Undergraduate
+12/20/2022 1:10,Ff,25,70,75,Male,Graduate
