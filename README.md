@@ -13,7 +13,7 @@ A simple and beginner-friendly notebook for **exploratory data analysis (EDA)** 
 └── README.md                     # You're here!
 ```
 
----
+
 
 ## 🔍 What You'll Learn
 
@@ -32,7 +32,7 @@ A simple and beginner-friendly notebook for **exploratory data analysis (EDA)** 
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
 
----
+
 
 ## 🚀 Getting Started
 
@@ -49,23 +49,25 @@ A simple and beginner-friendly notebook for **exploratory data analysis (EDA)** 
      ```
    - Or open it directly in [Google Colab](https://colab.research.google.com/)
 
----
+
 
 ## 📂 Dataset
 
 The included CSV file (`dummy_survey_data.csv`) is a small mock survey dataset designed for educational purposes. You can replace it with your own dataset for more practice!
 
----
+
 
 ## 🤝 Contributions
 
 Feel free to fork this repo, try out your own visualizations, or add new kinds of analysis!
 
----
+
 
 ## 📬 Contact
 
-Have a question or suggestion? Reach out to [your.email@example.com] or open an issue.
+Have questions, feedback, or ideas?  
+Feel free to [open an issue](https://github.com/AnirbanMukherjeeXD/survey-eda-practice/issues)  
+or reach out via [my GitHub profile](https://github.com/AnirbanMukherjeeXD).
 
 ---
 
